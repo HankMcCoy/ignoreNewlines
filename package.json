@@ -1,11 +1,11 @@
 {
-  "name": "ignoreNewlines",
+  "name": "ignore-newlines",
   "version": "0.0.1",
   "description": "A simple ES6 template string tag function for replacing newlines and tabs with single spaces.",
   "main": "lib/ignoreNewlines.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hankmccoy/newlines"
+    "url": "https://github.com/hankmccoy/ignoreNewlines"
   },
   "keywords": [
     "template strings",
